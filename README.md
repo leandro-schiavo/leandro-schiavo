@@ -3,9 +3,9 @@
 
 <p align="center">Transformando ideias em software funcional. 🚀 <br><br> Formado em Técnico T.I e cursando Ciências da Computação. Hoje, sou um Desenvolvedor Back-end em nível iniciante focado em Desenvolvimento Web. </p>&nbsp;
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-schiavo&show_icons=true&theme=radical)
+![Leandro GitHub stats](https://github-readme-stats-git-masterrk.vercel.app/api?username=leandro-schiavo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-schiavo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=leandro-schiavo&layout=compact&theme=radical)
  
  &nbsp;
  &nbsp;
